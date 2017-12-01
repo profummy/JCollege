@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+
+.logoutLblPos{
+
+   position:fixed;
+   right:10px;
+   top:5px;
+}
+body {
+    margin: 0;
+}
+
+.clearlist {
+    clear:both;
+    margin:0 410px 0 34px;  
+}
+caption {
+    text-align:left;
+}
+h2 a{
+	text-decoration: none;
+	color: black;}	
+}
+
